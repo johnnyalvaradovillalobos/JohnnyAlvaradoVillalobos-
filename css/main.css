@@ -1,15 +1,14 @@
 body{
-background-color:white;
-  text-align:center;
+background-color:lightblue;
 }
 
 h1{
-color:lightblue;
+color:blue;
 font-size:42px;
 }
 
 p{
-color:lightblue;
+color:black;
 font-size:22px;
 }
 
